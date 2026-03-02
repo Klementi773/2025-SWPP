@@ -19,7 +19,6 @@
 * Weniger geeignet für große Release-Pläne
 * Kaum Struktur für mehrere Versionen
 
----
 
 ### 2. GitFlow
 
@@ -39,7 +38,6 @@
 * Komplizierter
 * Mehr Aufwand beim Zusammenführen
 
----
 
 ### 3. Trunk-Based Development
 
