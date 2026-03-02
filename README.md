@@ -1,7 +1,5 @@
 # 2025-2026-SWPP
 
-## Branching-Strategien – einfach erklärt
-
 ### 1. GitHub Flow
 
 **Merkmale**
